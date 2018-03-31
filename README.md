@@ -8,7 +8,7 @@ A C++ snippet generator contains few lines probably needed by beginners.
 # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
-![alt text](https://github.com/yyxhx/vscx_cppQuickStartForBeginners/blob/master/images/preview.gif "Snippets Preview")
+![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: github.com/yyxhx/vscx_cppQuickStartForBeginners/blob/master/images/preview.gif](https://github.com/yyxhx/vscx_cppQuickStartForBeginners/blob/master/images/preview.gif "Snippets Preview")
 
 # Installation
 
