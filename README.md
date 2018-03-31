@@ -1,6 +1,8 @@
 # README
 ## Visual Studio Code C++ Quick Start for Beginners
 
+I'm a CS freshman and find myself always doing the same boring work: #include <iostream> using namespace...
+So I decided to make it easier. And here is:
 A C++ snippet generator contains few lines probably needed by beginners.
 
 # Usage
