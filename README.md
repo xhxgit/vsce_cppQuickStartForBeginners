@@ -8,7 +8,7 @@ A C++ snippet generator contains few lines probably needed by beginners.
 # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
-![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vscx_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vscx_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview")
+![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview")
 
 # Installation
 
@@ -21,11 +21,11 @@ Type "cppstd"(or even shorter) and press "Tab".
 7. Reload Visual Studio Code
 
 # Contact
-If you have any issues report them at [Issues](https://github.com/yyxhx/vscx_cppQuickStartForBeginners/issues)
+If you have any issues report them at [Issues](https://github.com/yyxhx/vsce_cppQuickStartForBeginners/issues)
 
 # License
 This extension is mostly based on "HTML Boilerplate" (https://github.com/sidthesloth92/vsc_html5_boilerplate)
 Since I have done a little work, I don't want to keep any copyright, you only have to follow his one(MIT).
 
 # Source
-[Github](https://github.com/yyxhx/vscx_cppQuickStartForBeginners)
+[Github](https://github.com/yyxhx/vsce_cppQuickStartForBeginners)

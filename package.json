@@ -13,14 +13,14 @@
     "engines": {
         "vscode": "^0.10.x"
     },
-    "homepage": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners/README.md",
+    "homepage": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners/README.md",
     "bugs": {
-        "url": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners/issues",
+        "url": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners/issues",
         "email": "yyxhx@live.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners.git"
+        "url": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners.git"
     },
     "categories": [
         "Snippets"
