@@ -4,9 +4,9 @@
 A C++ snippet generator contains few lines probably needed by beginners.
 
 # Usage
-Type "iostd" and press "Tab".
+Type "cppstd"(or even shorter) and press "Tab".
 
-![alt text](https:// "Snippets Preview")
+![alt text](https://github.com/yyxhx/vscx_cppQuickStartForBeginners/blob/master/images/preview.gif "Snippets Preview")
 
 # Installation
 
@@ -19,11 +19,11 @@ Type "iostd" and press "Tab".
 7. Reload Visual Studio Code
 
 # Contact
-If you have any issues report them at [Issues](https://)
+If you have any issues report them at [Issues](https://github.com/yyxhx/vscx_cppQuickStartForBeginners/issues)
 
 # License
 This extension is mostly based on "HTML Boilerplate" (https://github.com/sidthesloth92/vsc_html5_boilerplate)
 Since I have done a little work, I don't want to keep any copyright, you only have to follow his one(MIT).
 
 # Source
-[Github](https://github.com/)
+[Github](https://github.com/yyxhx/vscx_cppQuickStartForBeginners)
