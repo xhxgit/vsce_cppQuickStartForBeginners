@@ -1,0 +1,42 @@
+{
+    "name": "cpp-quick-start-snippet-for-beginners",
+    "displayName": "C++ Quick Start Snippet for Beginners",
+    "publisher": "yyxhx",
+    "description": "A C++ snippet generator contains few lines probably needed by beginners.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^0.10.x"
+    },
+    "homepage": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners/README.md",
+    "bugs": {
+        "url": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners/issues",
+        "email": "yyxhx@live.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yyxhx/vscx_cppQucikStartForBeginners.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "c++",
+        "iostream",
+        "std",
+        "cpp"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "cpp",
+                "path": "./snippets/cpp.json"
+            }
+        ]
+    }
+}

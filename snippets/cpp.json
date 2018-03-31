@@ -1,0 +1,18 @@
+{
+	"cppstd" : {
+		"prefix": "cppstd",
+		"body" : [
+			"#include <iostream>",
+			"using namespace std;",
+			"",
+			"int main()",
+			"{",
+			"\t$1",
+			"\t",
+			"\tsystem(\"pause\");",
+			"\treturn 0;",
+			"}"
+		],
+		"description": "This contains few lines probably needed for beginners."
+	}
+}
