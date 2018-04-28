@@ -3,7 +3,7 @@
     "displayName": "C++ Quick Start Snippet for Beginners",
     "publisher": "yyxhx",
     "description": "A C++ snippet generator contains few lines probably needed by beginners.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
