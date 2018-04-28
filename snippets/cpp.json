@@ -11,7 +11,8 @@
 			"\t",
 			"\tsystem(\"pause\");",
 			"\treturn 0;",
-			"}"
+			"}",
+			""
 		],
 		"description": "This contains few lines probably needed for beginners."
 	}
